@@ -10,13 +10,14 @@
 ```It can be easily configured and controlled, and provide full commmunication no matter of the nesting levels```
 
 ## Example usage
-
+```
 <time-input
     template="XX"
     variant="hour"
     outer-class="class1 class2 class3"
     wt-key="hourKeyName"
 />
+```
 
 ## Other variants
 For now a twig variant is provided
