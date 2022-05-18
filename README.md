@@ -7,7 +7,7 @@
 3. External styling with passing classes
 4. Data key to work with
 
-```It can be easily configured and controlled, and provide full commmunication no matter of the nesting levels```
+```It can be easily configured and controlled, and provide full communication no matter of the nesting levels```
 
 ## Example usage
 ```
